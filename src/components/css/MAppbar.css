@@ -1,0 +1,20 @@
+#appbar-box {
+
+	padding-left:20px;
+	padding-right:20px;
+}
+
+#appbar-box-row {
+
+	vertical-align:middle;
+}
+
+#appbar-box-row-op2 {
+
+	text-align: center;
+}
+
+#appbar-box-row-op3 {
+
+	text-align: right;
+}
