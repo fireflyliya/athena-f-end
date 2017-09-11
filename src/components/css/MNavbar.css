@@ -1,0 +1,22 @@
+#navbar-box {
+
+}
+
+#navbar-box-row {
+
+	vertical-align:middle;
+}
+
+
+.navbar-box-row-op-middle {
+
+	text-align: center;
+}
+
+#navbar {
+
+	position: fixed;
+	bottom: 0;
+	left:0;
+	width:100%;
+}
