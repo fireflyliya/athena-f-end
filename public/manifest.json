@@ -1,0 +1,15 @@
+{
+  "short_name": "Athena",
+  "name": "/ Loading...",
+  "icons": [
+    {
+      "src": "ath-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#FF1744",
+  "background_color": "#4CAF50"
+}
