@@ -9,7 +9,8 @@ class MAppbar extends Component {
 
 
     return (
-      <Appbar className="mui--bg-color-red-A400 mui--z2">
+      <div>
+      <Appbar id="appbar" className="mui--bg-color-red-A400 mui--z2">
        <table id="appbar-box" width="100%">
          <tbody>
            <tr id="appbar-box-row">
@@ -24,6 +25,8 @@ class MAppbar extends Component {
          </tbody>
        </table>
       </Appbar>
+      <div className="mui--appbar-height" style={{border: "1px solid #aaa"}}></div>
+      </div>
     );
   }
 }

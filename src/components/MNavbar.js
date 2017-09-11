@@ -14,16 +14,16 @@ class MNavbar extends Component {
          <tbody>
            <tr id="navbar-box-row">
              <td className="mui--appbar-height navbar-box-row-op-middle">
-              <i className="material-icons md-24 ">help</i>
+              <i className="material-icons md-24 ">home</i>
              </td>
              <td className="mui--appbar-height navbar-box-row-op-middle">
-              <i className="material-icons md-24 ">help</i>
+              <i className="material-icons md-24 ">settings_input_svideo</i>
              </td>
              <td className="mui--appbar-height navbar-box-row-op-middle">
-              <i className="material-icons md-24">help</i>
+              <i className="material-icons md-24">assignment</i>
              </td>
              <td className="mui--appbar-height navbar-box-row-op-middle">
-              <i className="material-icons md-24">help</i>
+              <i className="material-icons md-24">settings</i>
              </td>
            </tr>
          </tbody>
